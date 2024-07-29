@@ -28,7 +28,7 @@ You can access the live application [here](https://e-learning-platform-six.verce
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/e-learning-platform.git
+   git clone (https://github.com/Usha-Mahi-Pon/E-Learning-System.git)
    cd e-learning-platform
    ```
 2. Install the dependencies:
