@@ -15,7 +15,7 @@ An innovative platform for offering online courses, lectures, and educational re
 
 ## Application Link
 
-You can access the live application [here](https://e-learning-platform-six.vercel.app/profile).
+You can access the live application [here](https://e-learning-system-nine.vercel.app/).
 
 ## Technologies Used
 
